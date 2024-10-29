@@ -2,7 +2,6 @@
 Sick of memorising time zones to convert for games and their daily reset times?  
 Then this is for you!
 
-
 ## Features
 - Automatically detects your local time zone.
 - Converts all game server times to your local time zone.
@@ -19,7 +18,7 @@ Then this is for you!
 - Add custom game servers (saved locally).
 - Dark/night mode, which is automatically enabled based on system preferences.
 
-Feel free to request for more games to be added by creating an issue [here](https://github.com/cicerakes/Game-Time-Master/issues), or by filling out [this form](https://docs.google.com/forms/d/e/1FAIpQLSc0T_8Smk0vnp-VtR3eJSnSu3uLa3nFlWbCq9-jMqujmU1qcA/viewform).
+Feel free to request for more games to be added by creating an issue [here](https://github.com/dburr/Game-Time-Master/issues), or by filling out ~~[this form](https://docs.google.com/forms/d/e/1FAIpQLSc0T_8Smk0vnp-VtR3eJSnSu3uLa3nFlWbCq9-jMqujmU1qcA/viewform)~~ (form coming soon).
 
 ## Feature Roadmap
 - Manually set time zone (for when auto detect is wrong).
@@ -108,7 +107,7 @@ For most games this is does not apply, and can be omitted from the object.
 This can help with readability for game names that are long, and/or have other similarly named games that may conflict.
 
 ## License
-This project is licensed under the [GNU General Public License v3.0](https://github.com/cicerakes/Game-Time-Master/blob/master/LICENSE).
+This project is licensed under the [GNU General Public License v3.0](https://github.com/dburr/Game-Time-Master/blob/master/LICENSE).
 
 ## External Scripts
 `moment.min.js` `moment-timezone-with-data-10-year-range.min.js`  
