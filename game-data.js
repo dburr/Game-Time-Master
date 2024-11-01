@@ -1704,6 +1704,13 @@ var gameData = [
 		icon: "snowbreak-containment-zone"
 	},
 	{
+		game: "Sword of Convallaria",
+		server: "Global",
+		timezone: "Etc/GMT+4",
+		dailyReset: "20:00",
+		icon: "soc"
+	},
+  {
 		game: "Soul Tide",
 		server: "Global",
 		timezone: "Etc/GMT+7",
