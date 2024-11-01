@@ -4,7 +4,7 @@ about: Report a game server being affected by daylight savings. For example, if 
   SERVER reset time is 05:00 during PST and changes to 06:00 during PDT.
 title: "[GAME_NAME] (SERVER/REGION) is affected by daylight savings"
 labels: game data correction
-assignees: cicerakes
+assignees: dburr
 
 ---
 

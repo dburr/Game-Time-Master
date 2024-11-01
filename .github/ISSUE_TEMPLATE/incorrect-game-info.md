@@ -3,7 +3,7 @@ name: Incorrect game info
 about: Report a game having incorrect information.
 title: "[GAME_NAME] (SERVER/REGION) has incorrect data"
 labels: game data correction
-assignees: cicerakes
+assignees: dburr
 
 ---
 
