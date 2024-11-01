@@ -1718,6 +1718,13 @@ var gameData = [
 		icon: "soulworker"
 	},
 	{
+		game: "STARSEED: Asnia Trigger",
+		server: "Global",
+		timezone: "Etc/GMT",
+		dailyReset: "00:00",
+		icon: "starseed"
+	},
+  {
 		game: "Summoners War",
 		server: "Global",
 		timezone: "America/Los_Angeles",
