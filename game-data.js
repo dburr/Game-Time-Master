@@ -1707,7 +1707,7 @@ var gameData = [
 		game: "Sword of Convallaria",
 		server: "Global",
 		timezone: "Etc/GMT+4",
-		dailyReset: "20:00",
+		dailyReset: "00:00",
 		icon: "soc"
 	},
   {
