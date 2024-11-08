@@ -875,6 +875,13 @@ var gameData = [
 		icon: "hatsune-miku-colorful-stage"
 	},
 	{
+		game: "Haze Reverb!",
+		server: "Americas",
+		timezone: "Etc/GMT+7",
+		dailyReset: "00:00",
+		icon: "haze-reverb"
+	},
+  {
 		game: "Heaven Burns Red",
 		server: "JP",
 		timezone: "Asia/Tokyo",
