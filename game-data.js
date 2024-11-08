@@ -875,7 +875,7 @@ var gameData = [
 		icon: "hatsune-miku-colorful-stage"
 	},
 	{
-		game: "Haze Reverb!",
+		game: "Haze Reverb",
 		server: "Americas",
 		timezone: "Etc/GMT+7",
 		dailyReset: "00:00",
