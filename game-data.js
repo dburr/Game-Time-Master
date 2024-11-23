@@ -155,6 +155,13 @@ var gameData = [
 		icon: "ash-arms"
 	},
 	{
+		game: "Ash Echoes",
+		server: "Global",
+		timezone: "Etc/GMT+5",
+		dailyReset: "00:00",
+		icon: "ash-echoes"
+	},
+	{
 		game: "Assault Lily: Last Bullet",
 		server: "JP",
 		timezone: "Asia/Tokyo",
@@ -880,6 +887,13 @@ var gameData = [
 		timezone: "Etc/GMT+7",
 		dailyReset: "00:00",
 		icon: "haze-reverb"
+	},
+  {
+		game: "Heaven Burns Red",
+		server: "Global",
+		timezone: "Etc/GMT+7",
+		dailyReset: "00:00",
+		icon: "heaven-burns-red"
 	},
   {
 		game: "Heaven Burns Red",
