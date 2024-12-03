@@ -1182,26 +1182,11 @@ var gameData = [
 		icon: "love-and-deepspace"
 	},
 	{
-		game: "Love Live! School Idol Festival 2 MIRACLE LIVE!",
-		server: "JP",
-		timezone: "Asia/Tokyo",
-		dailyReset: "00:00",
-		icon: "love-live-sif-2",
-		menuName: "Love Live! SIF2"
-	},
-	{
 		game: "Love Nikki",
 		server: "EN",
 		timezone: "Etc/GMT+8",
 		dailyReset: "05:00",
 		icon: "love-nikki"
-	},
-	{
-		game: "Magia Record",
-		server: "JP",
-		timezone: "Asia/Tokyo",
-		dailyReset: "00:00",
-		icon: "magia-record"
 	},
 	{
 		game: "Magic: The Gathering Arena",
