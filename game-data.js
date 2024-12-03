@@ -1682,20 +1682,6 @@ var gameData = [
 		icon: "shining-nikki"
 	},
 	{
-		game: "SINoALICE",
-		server: "Global",
-		timezone: "Etc/UTC",
-		dailyReset: "05:00",
-		icon: "sinoalice"
-	},
-	{
-		game: "SINoALICE",
-		server: "Japan",
-		timezone: "Asia/Tokyo",
-		dailyReset: "00:00",
-		icon: "sinoalice"
-	},
-	{
 		game: "Skullgirls",
 		server: "Global",
 		timezone: "America/Los_Angeles",
