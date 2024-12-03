@@ -1324,27 +1324,6 @@ var gameData = [
 		icon: "ni-no-kuni-cross-worlds"
 	},
 	{
-		game: "NieR Re[in]carnation",
-		server: "Global",
-		timezone: "Pacific/Pitcairn",
-		dailyReset: "00:00",
-		icon: "nier-reincarnation"
-	},
-	{
-		game: "NieR Re[in]carnation",
-		server: "JP",
-		timezone: "Asia/Tokyo",
-		dailyReset: "00:00",
-		icon: "nier-reincarnation"
-	},
-	{
-		game: "NieR Re[in]carnation",
-		server: "SEA",
-		timezone: "Etc/GMT-8",
-		dailyReset: "00:00",
-		icon: "nier-reincarnation"
-	},
-	{
 		game: "Noah's Heart",
 		server: "Global",
 		timezone: "Etc/GMT+5",
