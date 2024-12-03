@@ -295,13 +295,6 @@ var gameData = [
 		icon: "counter-side-sea"
 	},
 	{
-		game: "Crash Fever",
-		server: "EN",
-		timezone: "Etc/UTC",
-		dailyReset: "06:00",
-		icon: "crash-fever"
-	},
-	{
 		game: "Crusaders Quest",
 		server: "Global",
 		timezone: "America/Los_Angeles",
@@ -1498,13 +1491,6 @@ var gameData = [
 		icon: "reverse-1999"
 	},
 	{
-		game: "Revived Witch",
-		server: "EN",
-		timezone: "Etc/GMT+7",
-		dailyReset: "04:00",
-		icon: "revived-witch"
-	},
-	{
 		game: "Rhythm Hive",
 		server: "Global",
 		timezone: "Asia/Seoul",
@@ -1913,20 +1899,6 @@ var gameData = [
 		timezone: "Asia/Seoul",
 		dailyReset: "00:00",
 		icon: "what-in-hell-is-bad"
-	},
-	{
-		game: "World Flipper",
-		server: "Global",
-		timezone: "Etc/UTC",
-		dailyReset: "20:00",
-		icon: "world-flipper"
-	},
-	{
-		game: "World Flipper",
-		server: "JP",
-		timezone: "Asia/Tokyo",
-		dailyReset: "05:00",
-		icon: "world-flipper"
 	},
 	{
 		game: "Wuthering Waves",
