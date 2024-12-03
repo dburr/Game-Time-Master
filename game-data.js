@@ -158,7 +158,7 @@ var gameData = [
 		game: "Ash Echoes",
 		server: "Global",
 		timezone: "Etc/GMT+5",
-		dailyReset: "00:00",
+		dailyReset: "04:00",
 		icon: "ash-echoes"
 	},
 	{
@@ -747,6 +747,13 @@ var gameData = [
 		icon: "girls-frontline"
 	},
 	{
+		game: "GIRLS' FRONTLINE 2: EXILIUM",
+		server: "EN",
+		timezone: "Etc/GMT+4",
+		dailyReset: "05:00",
+		icon: "girls-frontline-2"
+	},
+  {
 		game: "GODDESS OF VICTORY: NIKKE",
 		server: "Global",
 		timezone: "Etc/GMT-9",
